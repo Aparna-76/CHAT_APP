@@ -1,1 +1,1 @@
-# CHAT_APP
+# Chat Room Application
